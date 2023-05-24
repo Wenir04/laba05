@@ -1,5 +1,5 @@
 ## Laboratory work V
-https://coveralls.io/builds/60285177
+[![Coverage Status](https://coveralls.io/repos/github/Wenir04/laba05)](https://coveralls.io/github/Wenir04/laba05)
 Данная лабораторная работа посвещена изучению фреймворков для тестирования на примере **GTest**
 
 ```sh
